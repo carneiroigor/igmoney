@@ -1,0 +1,38 @@
+import styled from "styled-components";
+
+export const Container = styled.div `
+
+    margin-top: 4rem;
+    
+    table {
+        width: 100%;
+        border-spacing: 0 0.5rem;
+
+        th {
+            color: var(--text-body);
+            background: var(--dark-grey);
+            font-weight: 400;
+            padding: 1rem 2rem;
+            text-align: left;
+            line-height: 1.5rem;
+            border-radius: .10rem;
+        }
+
+        td {
+            color: var(--text-body);
+            padding: 1rem 2rem;
+            border: 0;
+            background: var(--dark-grey);
+            font-weight: 400;
+            border-radius: 0.10rem;
+
+            &.deposit {
+            color: var(--green);
+            }
+
+            &.withdraw {
+            color: var(--red);
+            }
+        }
+    }
+`;
