@@ -10,7 +10,7 @@ export const Container = styled.div `
 
         th {
             color: var(--text-body);
-            background: var(--dark-grey);
+            background: var(--light-grey);
             font-weight: 400;
             padding: 1rem 2rem;
             text-align: left;
@@ -22,7 +22,7 @@ export const Container = styled.div `
             color: var(--text-body);
             padding: 1rem 2rem;
             border: 0;
-            background: var(--dark-grey);
+            background: var(--light-grey);
             font-weight: 400;
             border-radius: 0.10rem;
 
