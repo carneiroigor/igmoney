@@ -1,4 +1,4 @@
-# Projeto IGMoney
+# Projeto de Aprendizado IGMoney
 ## App de Controle de Gastos
 - Criar o app utilizando, React e TypeScript.
 - Organizar os códigos da melhor maneira.
