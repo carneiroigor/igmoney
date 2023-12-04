@@ -1,6 +1,21 @@
-# Learning Project - IGMoney
-## Spending Control App
-- Create App using React and TypeScript.
-- Organize codes in the best way.
-- Create a desgin responsive e pleasant.
-- Use CSS.
+<h1 align="center" style="color: #33CC95; font-weight: bold;">
+  IGMONEY
+</h1>
+<p align="center">
+ <a href="#tech">Technologies</a> • 
+ <a href="#deploy">Deploy</a> 
+</p>
+
+<p align="center">
+<b>This application consists in a spending control app.</b>
+</p>
+
+<h2 id="tech">Technologies 💻</h2>
+
+- **React**
+- **TypeScript**
+- **Styled-Components**
+
+<h2 id="deploy">Deploy 🌐</h2>
+
+You can visit the deployed app at this link: https://igmoney-seven.vercel.app/
