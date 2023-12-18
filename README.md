@@ -18,4 +18,4 @@
 
 <h2 id="deploy">Deploy 🌐</h2>
 
-You can visit the deployed app at this link: https://igmoney-seven.vercel.app/
+You can visit the deployed app at: https://igmoney-seven.vercel.app/
