@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<b>This application consists in a spending control app.</b>
+<b>This application consists in a spending control React app.</b>
 </p>
 
 <h2 id="tech">Technologies 💻</h2>
