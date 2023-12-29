@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #33CC95; font-weight: bold;">
+<h1 align="center" style="font-weight: bold;">
   IGMONEY
 </h1>
 <p align="center">
