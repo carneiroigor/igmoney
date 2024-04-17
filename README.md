@@ -2,8 +2,7 @@
   IGMONEY
 </h1>
 <p align="center">
- <a href="#tech">Technologies</a> • 
- <a href="#deploy">Deploy</a> 
+ <a href="#tech">Technologies</a>
 </p>
 
 <p align="center">
@@ -15,7 +14,3 @@
 - **React**
 - **TypeScript**
 - **Styled-Components**
-
-<h2 id="deploy">Deploy 🌐</h2>
-
-Visit the deployed app at: https://igmoney-seven.vercel.app/
